@@ -1,0 +1,4 @@
+*.pyc
+/vanas_api/vanas_ctp/vanas_build/build/
+dump.rdb
+*.con
